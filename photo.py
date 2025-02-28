@@ -7,7 +7,7 @@ import Photo.photo as ph
 
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота
-BOT_TOKEN = '7340313394:AAEh26gBE6x48NOW1xJ-XXft-Rb1SIqkmeA'
+BOT_TOKEN = 'YOUR_TOKEN_BOT'
 
 async def main():
     bot = Bot(token=BOT_TOKEN)
